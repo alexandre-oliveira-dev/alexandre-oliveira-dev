@@ -6,9 +6,13 @@
 
 [![Alexandre github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexandre-oliveira-dev&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+- Versionamento de código
+  
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,postgres,docker,azure,aws)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,prisma,graphql,nest,postgres,mysql,mongodb,firebase,docker,azure,aws)](https://skillicons.dev)
 
 - Front-End
 
